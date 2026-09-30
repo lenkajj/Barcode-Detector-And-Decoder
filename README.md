@@ -1,5 +1,3 @@
-# Barcode-Detector-And-Decoder
-Python code for detecting, localizing, and decoding barcodes using the OpenCV library.
 # Barcode Detector and Decoder
 
 A Python script for detection, extraction, and decoding barcodes from images. The system processes images from a designated folder, compares the decoded output against ground-truth solutions, and evaluates overall accuracy.
